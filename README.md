@@ -1,3 +1,1 @@
-# three-js-starter
-
-### A three-js starter vite template.
+### messing around with three js particles.
